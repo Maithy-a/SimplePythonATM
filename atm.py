@@ -54,7 +54,7 @@ def atm():
                if balance >= withdrawal > 0:
                    balance -= withdrawal
                    print(f"Kes {withdrawal} withdrawn✅.\n"
-                         f"New Balance ≈ {balance:.2f}\n")
+                         f"New Balance ≈ Kes {balance:.2f}\n")
                elif withdrawal > balance:
                    print(f"Insufficient fund."
                          f"\nCurrent Balance ≈ Kes {balance:.2f} \n")
