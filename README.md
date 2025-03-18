@@ -1,4 +1,5 @@
 # SimplePythonATM
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 This is a simple ATM simulation script written in Python (`atm.py`). It authenticates users with a PIN, allows withdrawals and deposits, and checks the account balance. This README explains how to set up the project and convert `atm.py` into a standalone executable using PyInstaller.
 
