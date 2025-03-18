@@ -1,6 +1,0 @@
-flask==2.3.2
-sqlalchemy==2.0.21
-flask-sqlalchemy==3.0.5
-bcrypt==4.0.1
-requests==2.31.0
-python-dotenv==1.0.0
